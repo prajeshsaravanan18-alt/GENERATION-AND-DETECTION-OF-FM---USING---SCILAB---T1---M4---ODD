@@ -79,7 +79,20 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 * Verify the generated waveform using Tabulation and Model Waveform.
 
 ---
+##  PROGRAM
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/233977ae-c35b-498a-b6db-3e27d53b5d51" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/76fe7988-3682-4f5e-8b92-19f660836340" />
+
+## TABULATION 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cdbaa73a-db07-4f23-a288-95221221a80c" />
+
+## CALCULATION
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9f92e0f2-b3de-4554-8dfa-6a53af21f2df" />
 
 ## MODEL GRAPH
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d8aaa80a-5f5d-4e7a-8280-28fa2de8c6e5" />
+## MARK SPLIT UP
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/81fb2055-340e-4fbc-a98d-6f3993c60c16" />
+
 
 
